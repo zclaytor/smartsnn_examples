@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+torch
+astropy
+lightkurve
+git+https://github.com/zclaytor/smartsnn
+git+https://github.com/zclaytor/prot
